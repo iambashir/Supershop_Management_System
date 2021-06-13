@@ -12,7 +12,6 @@ Part-1
 * Import the database file into database.
 * The double click the SuperShopManagementSystem.Jar file.
 
-
 Part-2
 ===============================================================================
 * If two JAR files on the project classpath have the same name, only the first
