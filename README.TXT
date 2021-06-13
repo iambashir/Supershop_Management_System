@@ -18,6 +18,7 @@ Part-1
 * Change the database username = root, password = 1234
 * Import the database file into database.
 * Then double click the SuperShopManagementSystem.Jar and run the file.
+* Application login username = bashir, password = 111
 
 Part-2
 ===============================================================================
