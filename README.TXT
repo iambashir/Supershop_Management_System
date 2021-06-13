@@ -3,6 +3,13 @@ USED TECHNOLOGY
 Core Java, Java Swing, JDBC Driver, MySQL Database
 IDE: Netbeans
 
+Description
+==============================================================================
+This is a Super Shop Management System in Java Swing where you can add, purchase,
+sell product, create pos bill, employee management by finger print, all kinds of
+bill management, product details, sells history, admin for control the app, 
+stocks and inventory management system.
+
 Notes:
 Part-1
 ==============================================================================
