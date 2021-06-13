@@ -10,7 +10,7 @@ Part-1
   the project folder.
 * Change the database username = root, password = 1234
 * Import the database file into database.
-* The double click the SuperShopManagementSystem.Jar file.
+* Then double click the SuperShopManagementSystem.Jar and run the file.
 
 Part-2
 ===============================================================================
