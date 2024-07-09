@@ -16,7 +16,7 @@ Part-1
 * To run this project install MySQL database in your computer then download 
   the project folder.
 * Change the database username = root, password = 1234
-* Import the database file into database.
+* Import the database file into database "supershop_management_system"
 * Then double click the SuperShopManagementSystem.Jar and run the file.
 * Application login username = bashir, password = 111
 
